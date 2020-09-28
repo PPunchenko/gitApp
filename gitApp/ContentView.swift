@@ -31,6 +31,7 @@ struct ContentView_Previews: PreviewProvider {
  */
 
 //APP STORE 1
+//fix bugs
 
 //code 3
 /*
