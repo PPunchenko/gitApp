@@ -23,3 +23,9 @@ struct ContentView_Previews: PreviewProvider {
 //code
 //code
 ///coooooode
+
+
+//code2
+/*
+ cooooooode
+ */
