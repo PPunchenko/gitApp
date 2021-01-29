@@ -48,3 +48,5 @@ cooooooode 4
 */
 
 //APP STORE 2
+
+var x = 5
