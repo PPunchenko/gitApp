@@ -50,3 +50,8 @@ cooooooode 4
 //APP STORE 2
 
 var x = 5
+var y = 10
+
+var temp = x
+
+
